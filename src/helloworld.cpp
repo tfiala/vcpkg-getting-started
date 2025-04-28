@@ -1,6 +1,6 @@
 #include <filesystem>
 #include <fmt/core.h>
-#include <ibkr_flex_statement.h>
+#include <ibkr_flex_statement/ibkr_flex_statement.h>
 
 int main(int argc, const char **argv)
 {
